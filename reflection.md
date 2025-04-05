@@ -23,3 +23,9 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I think this assignment challenged me the most out of any of the assignments so far, but it also taught me the most. 
+In 1_extract.py the idea of reading in files from links was reinforced, and I learned how to write things to the cache. 
+In 2_transform.py, I used the apply function to be able to call two of the functions I wrote in pandaslib.py which cemented how to use the apply function in my mind.
+Additionally, in 2_transform.py we called files from the cache, which was something I did not know how to do prior to this assignment. 
+Lastly, in 3_load.py I did not know how to save files using the upload_file() function, so that whole file was a learning experience. 
+In the future, I would like to build another data pipeline like this for extra practice. 
