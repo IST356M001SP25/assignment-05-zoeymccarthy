@@ -35,5 +35,7 @@ base = "https://docs.google.com/spreadsheets/d/14wvnQygIX1eCVo7H5B7a96W1v5VCg6Q9
 state_df = pd.read_csv(base)
 #stores in the cache
 state_table.to_csv('cache/states.csv', index=False)
+#try to display the first 10 rows of the state data
+st.write(state_df.head(10))
 
 #three things stores in the cache now: survey data, cost of living data, and state data
